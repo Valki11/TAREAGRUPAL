@@ -14,13 +14,13 @@ Crear los siguientes Programas en C++
 <li>Una tabla de multiplicar</li>
 <li>Todas las tablas de multiplicar del 1 al 10</li>
 <li>Crear de forma gráfica la multiplicación manual</li>
-                          45
-                       X 32
-                     --------------
-                         90 
-                       135  
-                ------------------
-                      1440
+                          <li>45</li>
+                       <li>X 32</li>
+                    <li> ---------</li>
+                         <li>90</li>
+                     <li>  135  </li>
+               <li> -------------</li>
+                    <li>  1440</li>
 
 <li>Conversión de números decimales a binario</li>
 <li>Conversión de números decimales a hexadecimales</li>
