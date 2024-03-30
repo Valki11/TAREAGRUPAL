@@ -15,12 +15,12 @@ Crear los siguientes Programas en C++
 <li>Todas las tablas de multiplicar del 1 al 10</li>
 <li>Crear de forma gráfica la multiplicación manual</li>
                           <p>45</p>
-                       <li>X 32</p>
-                    <li> ---------</p>
-                         <li>90</p>
-                     <li>  135  </p>
-               <li> -------------</li>
-                    <li>  1440</li>
+                          <p>X 32</p>
+                       <p>---------</p>
+                            <p>90</p>
+                        <p>  135  
+                  <p> -------------</p>
+                       <p>  1440</p>
 
 <li>Conversión de números decimales a binario</li>
 <li>Conversión de números decimales a hexadecimales</li>
