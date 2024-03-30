@@ -14,11 +14,11 @@ Crear los siguientes Programas en C++
 <li>Una tabla de multiplicar</li>
 <li>Todas las tablas de multiplicar del 1 al 10</li>
 <li>Crear de forma gráfica la multiplicación manual</li>
-                          <li>45</li>
-                       <li>X 32</li>
-                    <li> ---------</li>
-                         <li>90</li>
-                     <li>  135  </li>
+                          <p>45</p>
+                       <li>X 32</p>
+                    <li> ---------</p>
+                         <li>90</p>
+                     <li>  135  </p>
                <li> -------------</li>
                     <li>  1440</li>
 
