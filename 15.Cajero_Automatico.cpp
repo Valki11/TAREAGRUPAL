@@ -10,7 +10,8 @@ int main(){
 	cout<<"Insertar tarjeta (S/N): "; cin>>insertar;
 	if (insertar == 'S' || insertar == 's'){
 		system("cls");
-	   cout<<"Ingrese Pin: "; cin>>pintc;
+	   cout<<"Ingrese Pin: "; //el pin inicial es 1234 
+		cin>>pintc;
 	   if(pin == pintc){
 	   	system("cls");
 	   	cout<<"1 - Retiro de Dinero                    2 - Consulta de saldo"<<endl;
